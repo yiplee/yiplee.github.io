@@ -2,7 +2,7 @@
 layout: post
 title:  "Fast Enumeration in Objc"
 date:   2016-05-04 22:00:01 +0800
-categories: iOS, Cocoa
+categories: iOS Cocoa
 location: Beijing, China
 tags: 笔记
 ---
