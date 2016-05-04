@@ -9,7 +9,7 @@
     }
 
     .post-header {
-        padding-left: 35px;
+        padding-left: 0px;
         min-height: $post-header-height;
         background-repeat: no-repeat;
         background-position: left center;
@@ -59,7 +59,7 @@
         font-family: $title-font;
         font-size: 18px;
         font-weight: 500;
-        text-transform: uppercase;
+        // text-transform: uppercase;
         letter-spacing: 1px;
 
         // Force default text colour [as post-header is wrapped by a link]
