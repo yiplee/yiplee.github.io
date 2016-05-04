@@ -2,7 +2,7 @@
 title: objc-code
 subtitle: "Journal of yiplee"
 email: guoyinl@gmail.com
-description: "来自一个 iOS 工程师的学习笔记"
+description: "编程笔记"
 baseurl: ""
 url: "https://yiplee.github.io"
 twitter_username: "yipleeyin"
@@ -15,6 +15,8 @@ permalink: pretty
 
 # Pagination
 paginate: 5
+
+highlighter: pygments
 
 # Sass
 sass:
