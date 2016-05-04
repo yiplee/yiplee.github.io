@@ -16,7 +16,7 @@ permalink: pretty
 # Pagination
 paginate: 5
 
-highlighter: pygments
+highlighter: rouge
 
 # Sass
 sass:
