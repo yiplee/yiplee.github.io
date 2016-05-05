@@ -5,7 +5,18 @@
     }
 
     .post-body {
-        p { line-height: 18px; }
+        p { line-height: 22px; text-indent: 2em;}
+    }
+
+    .highlighter-rouge {
+      // display: inline-block;
+      padding: .1em .25em;
+      background-color: #f2f2f2;
+      border-radius: 2px;
+
+      .highlight {
+        margin-left: 2em;
+      }
     }
 
     .post-header {
