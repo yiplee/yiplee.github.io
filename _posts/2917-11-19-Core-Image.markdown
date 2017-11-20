@@ -122,4 +122,4 @@ CGImageRelease(imageRef);
 2. CIContext 的创建开销比较大，尽量重用。
 3. 在用 CIFilter 处理 CIImage 的时候，并没有真正对图片数据进行处理，只是描述了整个过程；等到 CIContext 来生成的图片的时候，才真正处理了图片。并且 Core Image 会对一些过程做合并优化，提高效率。
 
-参考资料:[Getting the Best Performance](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_performance/ci_performance.html#//apple_ref/doc/uid/TP30001185-CH10-SW1)
+参考资料:[Core Image Getting the Best Performance](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_performance/ci_performance.html#//apple_ref/doc/uid/TP30001185-CH10-SW1)
