@@ -21,3 +21,6 @@ highlighter: rouge
 # Sass
 sass:
     style: :compressed
+
+plugins:
+  - jekyll-seo-tag
